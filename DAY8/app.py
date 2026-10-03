@@ -1,25 +1,13 @@
 import streamlit as st
 
-# --------------------------------------------------
-# Page Configuration
-# --------------------------------------------------
 st.set_page_config(
     page_title="Simple To-Do List",
     page_icon="✅",
     layout="centered"
 )
-
-# --------------------------------------------------
-# Initialize Task List
-# --------------------------------------------------
+-
 if "tasks" not in st.session_state:
     st.session_state.tasks = []
-
-
-# --------------------------------------------------
-# CRUD Functions
-# --------------------------------------------------
-
 def add_task(task):
     """Add a new task to the list."""
     if task.strip():
@@ -50,10 +38,6 @@ def remove_task(task_number):
 
     return False
 
-
-# --------------------------------------------------
-# Custom CSS
-# --------------------------------------------------
 st.markdown("""
 <style>
     .title {
