@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Which programming language is used in this application?",
+        "options": ["Java", "Python", "C++", "Ruby"],
+        "answer": "Python"
+    },
+    {
+        "question": "Which data format is commonly used to store structured quiz data?",
+        "options": ["JSON", "PNG", "MP3", "EXE"],
+        "answer": "JSON"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "fun", "define"],
+        "answer": "def"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*", "<!--"],
+        "answer": "#"
+    },
+    {
+        "question": "Which data structure stores key-value pairs in Python?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "answer": "Dictionary"
+    },
+    {
+        "question": "Which function is used to get the length of a list?",
+        "options": ["count()", "size()", "len()", "length()"],
+        "answer": "len()"
+    },
+    {
+        "question": "Which module is used to generate random values in Python?",
+        "options": ["random", "math", "os", "sys"],
+        "answer": "random"
+    },
+    {
+        "question": "Which statement is used for decision making in Python?",
+        "options": ["if", "loop", "switcher", "check"],
+        "answer": "if"
+    },
+    {
+        "question": "Which library is used to build this interactive web application?",
+        "options": ["NumPy", "Streamlit", "Matplotlib", "OpenCV"],
+        "answer": "Streamlit"
+    },
+    {
+        "question": "What is the extension of a JSON file?",
+        "options": [".json", ".data", ".txt", ".python"],
+        "answer": ".json"
+    },
+    {
+        "question": "Which loop is commonly used to iterate through a list?",
+        "options": ["for", "repeat", "iterate", "loop"],
+        "answer": "for"
+    },
+    {
+        "question": "Which Python value represents no value?",
+        "options": ["empty", "None", "null", "void"],
+        "answer": "None"
+    }
+]
