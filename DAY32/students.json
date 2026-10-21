@@ -1,0 +1,32 @@
+[
+    {
+        "student_id": "STD123",
+        "name": "Person1",
+        "marks": {
+            "Python": 67,
+            "Mathematics": 84,
+            "Database": 28,
+            "Computer Networks": 76,
+            "Web Technology": 45
+        },
+        "total": 300,
+        "percentage": 60.0,
+        "grade": "C",
+        "result": "Pass"
+    },
+    {
+        "student_id": "STD3",
+        "name": "Person2",
+        "marks": {
+            "Python": 34,
+            "Mathematics": 89,
+            "Database": 77,
+            "Computer Networks": 54,
+            "Web Technology": 65
+        },
+        "total": 319,
+        "percentage": 63.800000000000004,
+        "grade": "C",
+        "result": "Pass"
+    }
+]
