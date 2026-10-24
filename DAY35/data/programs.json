@@ -1,0 +1,12 @@
+[
+    {
+        "id": "PRO001",
+        "name": "python",
+        "type": "Certification Program",
+        "duration": "4months",
+        "mode": "Online",
+        "description": "larning hub for python programming ",
+        "status": "Active",
+        "created_date": "2026-10-24"
+    }
+]

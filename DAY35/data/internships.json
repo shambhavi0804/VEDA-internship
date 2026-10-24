@@ -1,0 +1,12 @@
+[
+    {
+        "id": "INT001",
+        "title": "Veda Internship ",
+        "domain": "Python",
+        "duration": "2months",
+        "mode": "Online",
+        "seats": 10,
+        "status": "Upcoming",
+        "created_date": "2026-10-24"
+    }
+]

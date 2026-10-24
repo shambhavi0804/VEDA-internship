@@ -1,0 +1,11 @@
+[
+    {
+        "id": "SER001",
+        "name": "Abhirami sevice",
+        "category": "AI & Machine Learning",
+        "description": "Develop a AI model ",
+        "price": 4900.0,
+        "status": "Active",
+        "created_date": "2026-10-24"
+    }
+]

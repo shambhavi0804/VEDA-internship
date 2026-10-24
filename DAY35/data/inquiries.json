@@ -1,0 +1,12 @@
+[
+    {
+        "id": "INQ001",
+        "customer": "Abhirami",
+        "email": "abhiramiprofile@gmail.com",
+        "type": "Technical Support",
+        "message": "Need verify about internship  status",
+        "priority": "Medium",
+        "status": "In Progress",
+        "date": "2026-10-24"
+    }
+]
